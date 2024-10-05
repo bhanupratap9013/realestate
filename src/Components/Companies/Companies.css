@@ -1,0 +1,14 @@
+.c-wrapper{
+    background-color: black;
+    color: white
+}
+
+.c-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.c-container img{
+    width: 100px;
+    height: 70px;
+}

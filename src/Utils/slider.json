@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Luxury Villa in Beverly Hills",
+      "price": "$3,500,000",
+      "detail": "A stunning villa located in the heart of Beverly Hills. This property offers 5 bedrooms, 4 bathrooms, a large swimming pool, and a private garden.",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Modern Apartment in New York",
+      "price": "$1,200,000",
+      "detail": "A stylish modern apartment in downtown Manhattan. This 2-bedroom apartment features a spacious living area, modern kitchen, and floor-to-ceiling windows with a skyline view.",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Beach House in Malibu",
+      "price": "$4,800,000",
+      "detail": "A beautiful beach house with direct access to Malibu beach. Featuring 3 bedrooms, a spacious deck, and panoramic ocean views.",
+      "image": "./r3.png"
+    }
+]  
