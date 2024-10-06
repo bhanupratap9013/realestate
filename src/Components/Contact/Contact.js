@@ -6,7 +6,7 @@ import { BsFillChatDotsFill } from "react-icons/bs";
 
 const Contact = () => {
   return (
-    <div id="contact-us" className="c-wrapper flexCenter">
+    <div id="contact" className="c-wrapper flexCenter">
       <div className="paddings innerWidth flexCenter c-container">
         {/* left side */}
         <div className="flexColStart c-left">

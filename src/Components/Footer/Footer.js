@@ -1,5 +1,7 @@
 import React from "react";
 import "./Footer.css";
+import { Link } from 'react-router-dom';
+
 
 const Footer = () => {
   return (
@@ -20,10 +22,7 @@ const Footer = () => {
           <span className="secondaryText">Bangalore, Karnataka</span>
 
           <div className="flexCenter f-menu">
-            <span>Property</span>
-            <span>Services</span>
-            <span>Product</span>
-            <span>About Us</span>
+          <span><Link to="/About"> About Us</Link></span>
           </div>
         </div>
       </div>

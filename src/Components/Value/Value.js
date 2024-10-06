@@ -16,7 +16,7 @@ const Value = () => {
         </div>
 
         {/* right side */}
-        <div className="flexColStart v-right">
+        <div className="flexColStart v-right" id="value">
           <span className="orangeText">Our Value</span>
           <span className="primaryText">Value we give to you</span>
           <span style={{ color: "White" }}>

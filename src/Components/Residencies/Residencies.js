@@ -34,7 +34,7 @@ const Residencies = () => {
         return <div>Loading...</div>
 
     return (
-        <div className='r-wrapper'>
+        <div className='r-wrapper' id='redidencies'>
         <div className="paddings inner-width r-container">
             <div className="r-head flexColStart">
             <span>Best Choice</span>
