@@ -28,6 +28,10 @@
     border-radius: 10px;
   }
   
+  .nohover:hover{
+    padding: 0px;
+    background-color: black;
+  }
   .menu-icon {
     display: none;
   }

@@ -22,7 +22,7 @@ const Footer = () => {
           <span className="secondaryText">Bangalore, Karnataka</span>
 
           <div className="flexCenter f-menu">
-          <span><Link to="/About"> About Us</Link></span>
+          <span><Link to="/about"> About Us</Link></span>
           </div>
         </div>
       </div>
